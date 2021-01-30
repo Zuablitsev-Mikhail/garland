@@ -7,7 +7,6 @@ garland.innerHTML += '<div class="red blur"></div>\n' +
     '        <div class="yellow"></div>\n' +
     '        <div class="green"></div>';
 //
-
 let reds = document.querySelectorAll(".red");
 let blues = document.querySelectorAll(".blue");
 let greens = document.querySelectorAll(".green");
